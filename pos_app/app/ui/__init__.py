@@ -1,0 +1,1 @@
+"""UI package — windows, the sidebar and per-section pages."""
