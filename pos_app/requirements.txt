@@ -1,0 +1,3 @@
+# Point of Sale (POS) — base skeleton
+# Keep dependencies minimal: only the GUI toolkit is required for now.
+PyQt6>=6.6.0,<7.0
